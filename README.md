@@ -7,7 +7,7 @@
 - Next.js (Choose any reference that suits you)
 - Redux Toolkit [Quick Reference](https://redux-toolkit.js.org/introduction/getting-started)
 
-## Backend
+## Backend (Web)
 - Node.js
 - Express.js
 - MongoDB (Mongoose.js ODM)
